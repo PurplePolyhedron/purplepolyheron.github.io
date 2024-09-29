@@ -123,6 +123,9 @@ nav h1 {
     font-size: 22px;
     font-weight: 500;
 }
+.disabled{
+    color: grey;
+}
 /* footer */
 .footer-width{
     max-width: 1000px;
