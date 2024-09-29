@@ -40351,7 +40351,7 @@ A.ol.prototype={}
 A.oM.prototype={}
 A.Mq.prototype={
 B(a){var s=null
-return A.rS(new A.KJ(A.Md(A.b([B.GV,B.JF,B.UC,B.Su,B.GP,B.G4,B.G1,B.G3,B.G2,B.Bf,new A.r2(A.mO(!1,s,s,s,!1,s,!1,s,s,new A.a9_(a),!1,s,s,s,s,s,B.a_P,s,s),s),B.GQ,A.mO(!1,s,s,s,!0,s,!1,s,s,new A.a90(a),!1,s,s,s,s,s,B.a_q,s,s),A.mO(!1,s,s,s,!0,s,!1,s,s,new A.a91(a),!1,s,s,s,s,s,B.a_G,s,s)],t.p),s,B.Z,!1),s),new A.a92(a),t.JS)}}
+return A.rS(new A.KJ(A.Md(A.b([B.GV,B.JF,B.UC,B.Su,B.GP,B.G4,B.G1,B.G3,B.G2,B.Bf,new A.r2(A.mO(!1,s,s,s,!1,s,!1,s,s,new A.a9_(a),!1,s,s,s,s,s,B.a_P,s,s),s),B.GQ,A.mO(!1,s,s,s,!0,s,!1,s,s,new A.a90(a),!1,s,s,s,s,s,B.a_r,s,s),A.mO(!1,s,s,s,!0,s,!1,s,s,new A.a91(a),!1,s,s,s,s,s,B.a_G,s,s)],t.p),s,B.Z,!1),s),new A.a92(a),t.JS)}}
 A.a92.prototype={
 $1(a){var s=A.ap(this.a,!1,t.R).c.a
 $.kg()
@@ -40395,7 +40395,7 @@ $1(a){return a.c.e},
 $S:41}
 A.JJ.prototype={
 B(a){var s=t.R,r=A.cf(a,new A.a1M(),s,t.y)
-return A.a14(null,A.ap(a,!1,s).gY0(),B.a_v,r)}}
+return A.a14(null,A.ap(a,!1,s).gY0(),B.a_w,r)}}
 A.a1M.prototype={
 $1(a){return a.c.f},
 $S:41}
@@ -40610,7 +40610,7 @@ A.a5Q.prototype={
 $0(){return this.a.d.$1(this.b)},
 $S:0}
 A.tn.prototype={
-B(a){return new A.Iw(B.a01,A.b([A.aic(B.a_R,new A.a2D(a),null),A.aic(B.a_r,new A.a2E(this,a),null)],t.p),null)}}
+B(a){return new A.Iw(B.a01,A.b([A.aic(B.a_R,new A.a2D(a),null),A.aic(B.a_s,new A.a2E(this,a),null)],t.p),null)}}
 A.a2D.prototype={
 $0(){A.kW(this.a,!1).Vh(null)
 return null},
@@ -41331,12 +41331,12 @@ B(a){var s=null
 return new A.r2(A.mr(A.cP("Add more Icons",s,s,A.e7(s,s,s,s,s,s,s,s,s,s,s,A.iJ(a),s,s,s,s,s,!0,s,s,s,s,s,s,s,s)),s,s),s)}}
 A.IJ.prototype={
 B(a){var s,r,q,p=this,o=null,n=p.d,m=n===B.cx?B.cy:B.cz,l=t.p
-m=A.bR(o,new A.jM(m,A.e1(A.b([B.a_s,B.A8,new A.c6(p.e,A.ch(a),o,o)],l),B.x,B.H,B.at),o),B.r,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.a_X(p),o,o,o,o,o,o)
+m=A.bR(o,new A.jM(m,A.e1(A.b([B.a_t,B.A8,new A.c6(p.e,A.ch(a),o,o)],l),B.x,B.H,B.at),o),B.r,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.a_X(p),o,o,o,o,o,o)
 n=n===B.e6?B.cy:B.cz
 s=A.b([],l)
 r=p.f
 q=r==null
-if(q)s.push(B.a_E)
+if(q)s.push(B.a_F)
 else s.push(B.V5)
 s.push(B.A8)
 if(!q)s.push(new A.c6(r,A.ch(a),o,o))
@@ -42594,7 +42594,7 @@ B(a){var s=null
 return A.ft(B.V_,new A.cm(s,s,A.m4(B.k,B.w,2),s,s,s,s,B.an),B.fY)}}
 A.NY.prototype={
 B(a){var s=null,r=t.p
-return A.fp(A.b([new A.aX(B.aT,A.e1(A.b([A.f0(A.i_(a),new A.eG(B.fE,new A.c6(B.iw,A.ch(a),s,s),s)),B.IL,B.Sp],r),B.x,B.cf,B.a_),s),B.a_B,B.a0_,B.ii,B.a_T],r),B.x,B.H,B.a_)}}
+return A.fp(A.b([new A.aX(B.aT,A.e1(A.b([A.f0(A.i_(a),new A.eG(B.fE,new A.c6(B.iw,A.ch(a),s,s),s)),B.IL,B.Sp],r),B.x,B.cf,B.a_),s),B.a_C,B.a0_,B.ii,B.a_T],r),B.x,B.H,B.a_)}}
 A.NZ.prototype={
 B(a){return B.FX}}
 A.Lj.prototype={
@@ -42602,7 +42602,7 @@ B(a){var s=null,r=A.h_(6)
 return A.cH(A.ft(B.R5,new A.cm(B.fE,s,A.m4(B.k,B.w,1),r,s,s,s,B.an),B.aR),40,80)}}
 A.Bp.prototype={
 B(a){var s=null,r=A.i_(a),q=A.f0(A.i_(a),B.a1O),p=A.h_(8),o=A.m4(this.c?B.k:B.u,B.w,2),n=t.p
-return A.f0(r,new A.eG(B.fE,new A.aX(B.Hi,A.fp(A.b([q,A.ft(new A.aX(B.jX,A.dw(A.b([A.f0(A.i_(a),B.a1H),B.it],n),new A.ql(s,s)),s),new A.cm(s,s,o,p,s,s,s,B.an),B.aR),A.dw(A.b([A.f0(A.i_(a),B.a1J),B.a_x],n),new A.ql(s,s))],n),B.x,B.H,B.at),s),s))}}
+return A.f0(r,new A.eG(B.fE,new A.aX(B.Hi,A.fp(A.b([q,A.ft(new A.aX(B.jX,A.dw(A.b([A.f0(A.i_(a),B.a1H),B.it],n),new A.ql(s,s)),s),new A.cm(s,s,o,p,s,s,s,B.an),B.aR),A.dw(A.b([A.f0(A.i_(a),B.a1J),B.a_y],n),new A.ql(s,s))],n),B.x,B.H,B.at),s),s))}}
 A.NX.prototype={
 B(a){var s=null
 return A.y8(new A.dd(B.C2,new A.aX(B.aT,A.e1(A.b([B.hi,B.dO,new A.c6(B.ix,A.ch(a),s,s),B.it,B.dO,B.hj],t.p),B.x,B.cW,B.at),s),s),s)}}
@@ -49096,7 +49096,7 @@ this.eP()}}
 A.KN.prototype={
 B(a){var s=null,r=A.T(a),q=A.be(a,B.aK,t.w).w.r.b,p=A.azX(a,s,s),o=B.Hp.E(0,new A.ah(0,q,0,0)),n=r.p2.y
 n.toString
-n=A.il(A.aBB(B.a_D,a,!1,!1,!1,!0),s,s,B.bx,!0,n,s,s,B.au)
+n=A.il(A.aBB(B.a_E,a,!1,!1,!1,!0),s,s,B.bx,!0,n,s,s,B.au)
 return A.f2(s,new A.xs(n,o,B.C3,s,B.as,B.jU,s,s),B.q,s,s,new A.cm(s,s,new A.dm(B.p,B.p,p,B.p),s,s,s,s,B.an),s,q+161,B.Hf,s,s,s,s)}}
 A.tv.prototype={
 gC(a){var s=this
@@ -88645,8 +88645,8 @@ B.LP=A.b(s([B.IV,B.a_X]),t.p)
 B.FZ=new A.kq(B.Z,B.cW,B.a_,B.x,null,B.aA,null,B.LP,null)
 B.FT=new A.eG(B.Fl,B.FZ,null)
 B.io=new A.lr(2,"center")
-B.a_w=new A.bo("Not \nUsed",null,null,B.io,null,null,null)
-B.Em=new A.f_(B.y,null,null,B.a_w,null)
+B.a_x=new A.bo("Not \nUsed",null,null,B.io,null,null,null)
+B.Em=new A.f_(B.y,null,null,B.a_x,null)
 B.FV=new A.eG(B.n3,B.Em,null)
 B.Sq=new A.Bp(!0,null)
 B.ii=new A.eQ(null,16,null,null)
@@ -88662,9 +88662,9 @@ B.VR=new A.cQ("Hold down an item tile ",null,B.a6,null)
 B.VZ=new A.cQ("  to open adjust menu",null,B.a6,null)
 B.KK=A.b(s([B.VR,B.AT,B.VZ]),t.VO)
 B.VX=new A.cQ(null,B.KK,B.a6,null)
-B.a_C=new A.bo(null,B.VX,null,null,null,null,null)
+B.a_D=new A.bo(null,B.VX,null,null,null,null,null)
 B.Sm=new A.NX(null)
-B.JQ=A.b(s([B.Sq,B.ii,B.a_S,B.a_C,B.ii,B.Sm]),t.p)
+B.JQ=A.b(s([B.Sq,B.ii,B.a_S,B.a_D,B.ii,B.Sm]),t.p)
 B.FX=new A.kq(B.Z,B.H,B.a_,B.x,null,B.aA,null,B.JQ,null)
 B.bT=new A.oJ(3,"stretch")
 B.Gd=new A.K0(null)
@@ -88693,16 +88693,16 @@ B.KC=A.b(s([B.At,B.AV,B.AU,B.a22,B.W_]),t.VO)
 B.W3=new A.cQ(null,B.KC,B.a6,null)
 B.a_J=new A.bo(null,B.W3,null,null,null,null,null)
 B.a_K=new A.bo("Tap a counter to increment it",null,null,null,null,null,null)
-B.a_A=new A.bo("Slide up/down on a counter to adjust it",null,null,null,null,null,null)
-B.a_t=new A.bo("Hold down to open counter menu, where you can also reset or delete it",null,null,null,null,null,null)
+B.a_B=new A.bo("Slide up/down on a counter to adjust it",null,null,null,null,null,null)
+B.a_u=new A.bo("Hold down to open counter menu, where you can also reset or delete it",null,null,null,null,null,null)
 B.Ge=new A.K1(null)
 B.El=new A.f_(B.y,null,null,B.Ge,null)
-B.Ly=A.b(s([B.Eo,B.dP,B.a_J,B.dP,B.a_K,B.dP,B.a_A,B.dP,B.a_t,B.dP,B.El]),t.p)
+B.Ly=A.b(s([B.Eo,B.dP,B.a_J,B.dP,B.a_K,B.dP,B.a_B,B.dP,B.a_u,B.dP,B.El]),t.p)
 B.FY=new A.kq(B.Z,B.H,B.a_,B.bT,null,B.aA,null,B.Ly,null)
-B.a_z=new A.bo("Second",null,B.fk,null,null,null,null)
+B.a_A=new A.bo("Second",null,B.fk,null,null,null,null)
 B.Y9=new A.l(!0,B.k,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a_U=new A.bo("Hold to remove",null,B.Y9,null,null,null,null)
-B.KG=A.b(s([B.a_z,B.a_U]),t.p)
+B.KG=A.b(s([B.a_A,B.a_U]),t.p)
 B.G0=new A.kq(B.Z,B.H,B.a_,B.x,null,B.aA,null,B.KG,null)
 B.G1=new A.JJ(null)
 B.G2=new A.JK(null)
@@ -88846,7 +88846,7 @@ B.Hp=new A.ah(16,16,16,8)
 B.Hf=new A.ah(0,0,0,8)
 B.jU=new A.aH(25e4)
 B.Wu=new A.l(!0,B.j,null,null,null,null,24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a_D=new A.bo("Purple Slime Counter",null,B.Wu,null,null,null,null)
+B.a_E=new A.bo("Purple Slime Counter",null,B.Wu,null,null,null,null)
 B.GV=new A.KN(null)
 B.GW=new A.tv(null,null,null,null,null,null,null,null,null)
 B.GX=new A.z0(null,null,null)
@@ -89128,10 +89128,10 @@ B.JK=new A.pC(2,"top")
 B.oL=new A.pC(3,"center")
 B.JL=new A.pC(4,"bottom")
 B.Av=new A.l(!0,B.k,null,null,null,null,16,null,null,null,null,null,1.5,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a_F=new A.bo("Made by Purple Polyhedron.\nIf you experianced any bug or have any suggestion, contact purplepolyhedron@gmail.com",null,B.Av,null,null,null,null)
-B.JM=new A.ub(null,B.a_F,null,null,!1,null,null,null,null,null,!0,null,null,!1,null,!1,null,null,null,null)
-B.a_p=new A.bo(u.y,null,B.Av,null,null,null,null)
-B.JN=new A.ub(null,B.a_p,null,null,!1,null,null,null,null,null,!0,null,null,!1,null,!1,null,null,null,null)
+B.a_p=new A.bo("Made by Purple Polyhedron.\nIf you experianced any bug, contact purplepolyhedron on Discord.",null,B.Av,null,null,null,null)
+B.JM=new A.ub(null,B.a_p,null,null,!1,null,null,null,null,null,!0,null,null,!1,null,!1,null,null,null,null)
+B.a_q=new A.bo(u.y,null,B.Av,null,null,null,null)
+B.JN=new A.ub(null,B.a_q,null,null,!1,null,null,null,null,null,!0,null,null,!1,null,!1,null,null,null,null)
 B.oM=A.b(s([0,4,12,1,5,13,3,7,15]),t.Y)
 B.JO=A.b(s([0,6,12,18]),t.Y)
 B.JR=A.b(s([0,0,32722,12287,65534,34815,65534,18431]),t.Y)
@@ -90637,8 +90637,8 @@ B.a_O=new A.bo("Tap the right side to increment",null,null,null,null,null,null)
 B.Rc=new A.aX(B.aT,B.a_O,null)
 B.a_Y=new A.bo("Slide up/down to adjust",null,null,null,null,null,null)
 B.Re=new A.aX(B.aT,B.a_Y,null)
-B.a_u=new A.bo("Tap the left side to decrement",null,null,null,null,null,null)
-B.Rf=new A.aX(B.aT,B.a_u,null)
+B.a_v=new A.bo("Tap the left side to decrement",null,null,null,null,null,null)
+B.Rf=new A.aX(B.aT,B.a_v,null)
 B.vl=new A.uv(null)
 B.cZ=new A.Nj(0,"fill")
 B.aI=new A.Nj(1,"stroke")
@@ -91003,8 +91003,8 @@ B.UO=new A.jQ(3,"hide")
 B.a4X=new A.jQ(4,"remove")
 B.A9=new A.jQ(5,"timeout")
 B.UP=new A.vl(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a_y=new A.bo("BackGround Selected",null,null,null,null,null,null)
-B.UQ=new A.qJ(B.a_y,null,null,null,null,null,null,null,null,null,null,null,null,B.eA,null,null,null,B.K,null)
+B.a_z=new A.bo("BackGround Selected",null,null,null,null,null,null)
+B.UQ=new A.qJ(B.a_z,null,null,null,null,null,null,null,null,null,null,null,null,B.eA,null,null,null,B.K,null)
 B.Aa=new A.CQ(0,"permissive")
 B.UR=new A.CQ(1,"normal")
 B.US=new A.CQ(2,"forced")
@@ -91394,19 +91394,19 @@ B.Zv=new A.l(!0,B.M,null,"Roboto",B.X,null,null,null,null,null,null,null,null,nu
 B.YU=new A.l(!0,B.k,null,"Roboto",B.X,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackHelsinki labelMedium",null,null,null,null)
 B.Z3=new A.l(!0,B.k,null,"Roboto",B.X,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"blackHelsinki labelSmall",null,null,null,null)
 B.a_o=new A.dE(B.ZR,B.WR,B.XQ,B.YT,B.Z5,B.Wc,B.Xp,B.Wg,B.YD,B.Zi,B.Y0,B.Zk,B.Zv,B.YU,B.Z3)
-B.a_q=new A.bo("About",null,null,null,null,null,null)
-B.a_r=new A.bo("Confirm",null,null,null,null,null,null)
-B.a_s=new A.bo("Main:",null,B.fk,null,null,null,null)
-B.a_v=new A.bo("History",null,null,null,null,null,null)
-B.a_x=new A.bo("11",null,B.lD,null,null,null,null)
+B.a_r=new A.bo("About",null,null,null,null,null,null)
+B.a_s=new A.bo("Confirm",null,null,null,null,null,null)
+B.a_t=new A.bo("Main:",null,B.fk,null,null,null,null)
+B.a_w=new A.bo("History",null,null,null,null,null,null)
+B.a_y=new A.bo("11",null,B.lD,null,null,null,null)
 B.W1=new A.cQ("Tap the avatar ",null,B.a6,null)
 B.a1P=new A.c6(B.iw,40,null,null)
 B.AS=new A.fL(B.a1P,B.br,null,null)
 B.VV=new A.cQ(" to expand or collapse the menu",null,B.a6,null)
 B.LO=A.b(s([B.W1,B.AS,B.VV]),t.VO)
 B.VU=new A.cQ(null,B.LO,B.a6,null)
-B.a_B=new A.bo(null,B.VU,null,null,null,null,null)
-B.a_E=new A.bo("Secondary:",null,B.fk,null,null,null,null)
+B.a_C=new A.bo(null,B.VU,null,null,null,null,null)
+B.a_F=new A.bo("Secondary:",null,B.fk,null,null,null,null)
 B.a_G=new A.bo("Help",null,null,null,null,null,null)
 B.a_H=new A.bo("Commander Damages",null,null,null,null,null,null)
 B.Wx=new A.l(!0,B.bX,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
