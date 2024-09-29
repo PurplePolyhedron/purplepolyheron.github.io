@@ -126,5 +126,8 @@ nav h1 {
 /* footer */
 .footer-width{
     max-width: 1000px;
+    display: flex;
+    margin: auto;
     text-align: center;
+    justify-content: center;
 }
