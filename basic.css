@@ -1,0 +1,130 @@
+body {
+    margin: 0;
+    background-color: rgb(210,255,255);
+}
+
+nav {
+    background-color: rgb(202, 72, 202);
+    font-size: larger;
+}
+
+.header-width {
+    display: flex;
+    max-width: 1000px;
+    margin: auto;
+    justify-content: space-evenly;
+    @media (max-width: 450px) {
+        display: inline-block;
+        width: 100%;
+    }
+}
+
+.header-title {
+    color: white;
+    margin: 20px;
+}
+
+nav ul {
+    display: inline;
+    align-self: flex-end;
+    margin: auto 10px auto auto;
+    @media (max-width: 450px) {
+        display: inline-block;
+        padding-inline-start: 15px;
+        padding-bottom: 10px;
+    }
+}
+
+nav li {
+    display: inline;
+    margin: 10px 10px;
+}
+
+nav a {
+    color: white;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+nav h1 {
+    color: white;
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+/* home page */
+.bio{
+    text-align: center;
+    margin: 20px;
+    font-size: 22px;
+}
+.app-image-base {
+    max-width: min(90%, 600px);
+}
+/* counter page */
+.page-width {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.publish{
+    text-align: center;
+    margin: 60px 40px;
+    font-size: 22px;
+}
+
+.content-row, .content-row-reverse{
+    display: flex;
+    margin: 20px;
+    @media (max-width: 600px) {
+        display: inline-block;
+    }
+}
+
+.content-row-reverse{
+    flex-direction: row-reverse;
+}
+
+#main-title {
+    margin-top:5px;
+    margin-bottom: 5px;
+    font-size: 27px;
+    display: block;
+    text-align: center;
+    font-weight: 500;
+}
+
+.app-image-left, .app-image-right, .title-box-left, .title-box-right{
+    width: 47.5%;
+    @media (max-width: 600px) {
+        width: 100%;
+        float: none;
+    }
+    margin: auto;
+}
+
+.app-image-left, .app-image-right{
+    border-radius: 16px;
+    overflow: hidden;
+}
+.title-box-left, .title-box-right{
+    margin: auto;
+    font-size: 17px;
+}
+
+.app-image-left, .title-box-left{
+    float: left;
+}
+.app-image-right, .title-box-right{
+    float: right;
+}
+
+.content-title {
+    font-size: 22px;
+    font-weight: 500;
+}
+/* footer */
+.footer-width{
+    max-width: 1000px;
+    text-align: center;
+}

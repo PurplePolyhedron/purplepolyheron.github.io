@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <link rel="icon" href="slime.png" type="image/png">
+    <title>Purple Slime</title>
+    <link rel="stylesheet" href="basic.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="header-width">
+                <h1 class="header-title">Purple Slime</h1>
+                <ul>
+                    <li><a href="home.html">Home</a></li>
+                    <li><a href="counter.html">Counter</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <main class="page-width">
+        <div class="content-row">
+            <div class="title-box-left">
+                <p id="main-title">Purple Slime Counter</p>
+                <p id="main-sub-title">Purple Slime Counter is a resources tracker for boardgames.
+                    Current version is optimazed for a Commander game.
+                    There are plans to add general board game support later.</p>
+            </div>
+            <img class="app-image-right" src="base.jpg" alt="basic app screenshot">
+        </div>
+        <div class = "publish">
+            <p>Coming soon to Google Play and Apple App Store.</p>
+            <p>You can also try the web version, or check the Github</p>
+        </div>
+        <div class="content-row-reverse">
+            <div class="title-box-right">
+                <p class="content-title">Commander damage</p>
+                <p class="content-sub-title">Deals Commander damage with a single gesture.
+                    <br>
+                    Simple and fast, and it supports partner commander</p>
+            </div>
+            <video class="app-image-left" id="dmg-video" autoplay muted loop
+                onclick="if(this.paused){this.play()}else{this.pause()}">
+                <source src="dmg.mp4" type="video/mp4">
+                Commander damage showcase
+            </video>
+        </div>
+        <div class="content-row">
+            <div class="title-box-left">
+                <p class="content-title">Supports up to six player</p>
+                <p class="content-sub-title">Each section can be rotated individually</p>
+            </div>
+            <img class="app-image-right" src="six.jpg" alt="six player screenshot">
+        </div>
+        <div class="content-row-reverse">
+            <div class="title-box-right">
+                <p class="content-title">Add more counter</p>
+                <p class="content-sub-title">You can additional counter stats. Or add a floating counter to indicate
+                    initiative</p>
+            </div>
+            <img class="app-image-left" src="counter.jpg" alt="counters screenshot">
+        </div>
+
+        <div class="content-row">
+            <div class="title-box-left">
+                <p class="content-title">History keeping</p>
+                <p class="content-sub-title">Keeps track of all the life total.
+                    Turn on history retrace the game history when needed. </p>
+            </div>
+            <img class="app-image-right" src="history.jpg" alt="six player screenshot">
+        </div>
+        <div class="content-row-reverse">
+            <div class="title-box-right">
+                <p class="content-title">Highly Customizable</p>
+                <p class="content-sub-title">You can pick the avatars or backgrounds you like.
+                    And use your own images and assets</p>
+            </div>
+            <img class="app-image-left" src="image.jpg" alt="six player screenshot">
+        </div>
+        <br>
+    </main>
+    <footer>
+        <div class="footer-width">
+            <p>Privacy Policy: We don't collect any personal data.</p>
+        </div>
+    </footer>
+</body>
+</html>
