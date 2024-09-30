@@ -134,3 +134,6 @@ nav h1 {
     text-align: center;
     justify-content: center;
 }
+.footer-width p{
+    margin: 12px;
+}
