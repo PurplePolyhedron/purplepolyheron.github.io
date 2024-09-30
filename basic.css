@@ -61,6 +61,14 @@ nav h1 {
 .app-image-base {
     max-width: min(90%, 600px);
 }
+.sub-title {
+    font-size: 18px;
+    max-width: 600px;
+    margin: 5px auto;
+}
+.padding {
+    padding: 20px;
+}
 /* counter page */
 .page-width {
     max-width: 1000px;
@@ -85,7 +93,7 @@ nav h1 {
     flex-direction: row-reverse;
 }
 
-#main-title {
+.main-title {
     margin-top:5px;
     margin-bottom: 5px;
     font-size: 27px;
@@ -128,12 +136,13 @@ nav h1 {
 }
 /* footer */
 .footer-width{
-    max-width: 1000px;
     display: flex;
     margin: auto;
     text-align: center;
     justify-content: center;
 }
-.footer-width p{
-    margin: 12px;
+
+.footer-width a{
+    color: rgb(36, 24, 63);
+    /* text-decoration: none; */
 }
