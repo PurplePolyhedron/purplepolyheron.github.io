@@ -102,6 +102,33 @@ nav h1 {
     font-weight: 500;
 }
 
+.store-row{
+    display: flex;
+    margin: 20px;
+    align-content: space-between;
+}
+
+.store-logo{
+    width: 180px;
+    height: 60px;
+    margin: auto;
+}
+
+.store-logo-text{
+    width: 180px;
+    height: 55px;
+    margin: auto;
+    border-radius: 8px;
+    background-color: black;
+    overflow: hidden;
+}
+
+.store-logo-text a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
 .app-image-left, .app-image-right, .title-box-left, .title-box-right{
     width: 47.5%;
     @media (max-width: 600px) {
